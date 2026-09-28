@@ -1,0 +1,28 @@
+# Build output
+build/
+build-*/
+mathengine/build*/
+android/app/build/
+android/build/
+android/app/.cxx/
+android/.gradle/
+android/.kotlin/
+*.apk
+*.aab
+
+# IDE and machine-local settings
+.idea/
+*.iml
+.vscode/
+android/local.properties
+.DS_Store
+
+# Signing material (never commit keys)
+*.jks
+*.keystore
+keystore.properties
+
+# Python
+__pycache__/
+*.pyc
+.venv/
