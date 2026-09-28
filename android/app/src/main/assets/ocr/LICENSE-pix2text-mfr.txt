@@ -1,0 +1,3 @@
+pix2text-mfr-1.5 (https://huggingface.co/breezedeus/pix2text-mfr-1.5)
+Copyright (c) breezedeus. Licensed under the MIT License.
+Quantized to int8 for on-device use.
